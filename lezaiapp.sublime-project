@@ -1,0 +1,26 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"F:/py/lezaiapp/env/Scripts/python.exe",
+				"$file"
+			],
+			"name": "Flask",
+			"working_dir": "F:/py/lezaiapp"
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "/F/py/flask-website"
+		},
+		{
+			"path": "/F/py/esther-master"
+		},
+		{
+			"path": "/F/py/lezaiapp"
+		}
+	]
+}

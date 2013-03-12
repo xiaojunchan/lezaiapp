@@ -1,0 +1,844 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cre",
+				"create_app"
+			],
+			[
+				"ge",
+				"generate_password_hash"
+			],
+			[
+				"_get_",
+				"_get_login_hash"
+			],
+			[
+				"_get",
+				"_get_login_formhash"
+			],
+			[
+				"DE",
+				"DEFAULT_MODULES"
+			],
+			[
+				"DEF",
+				"DEFAULT_APP_NAME"
+			],
+			[
+				"clea",
+				"cleaner_gallery_instance"
+			],
+			[
+				"att",
+				"attachment_ID"
+			],
+			[
+				"RE",
+				"RECORD_SQL_DATA_PRE"
+			],
+			[
+				"re",
+				"record_sql"
+			],
+			[
+				"ctb",
+				"ctbwriter_form"
+			],
+			[
+				"max",
+				"maxpage_url"
+			],
+			[
+				"mat",
+				"match_vod_file"
+			],
+			[
+				"vod_par",
+				"vod_param_newId"
+			],
+			[
+				"vod",
+				"vod_param_newId"
+			],
+			[
+				"match",
+				"match_vod_sSomsFileId"
+			],
+			[
+				"sp",
+				"sprites"
+			],
+			[
+				"cur",
+				"currentPosition"
+			],
+			[
+				"page",
+				"pagename"
+			],
+			[
+				"con",
+				"contentLoaderInfo"
+			],
+			[
+				"tpl_p",
+				"tpl_page_play_mini_main"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"cle",
+				"cleanCache"
+			],
+			[
+				"FILE",
+				"FILE_CACHE_TIME_BETWEEN_CLEANS"
+			],
+			[
+				"FILE_C",
+				"FILE_CACHE_SUFFIX"
+			],
+			[
+				"FILE_CA",
+				"FILE_CACHE_TIME_BETWEEN_CLEANS"
+			],
+			[
+				"jan",
+				"janeyi_delete_submenu_items"
+			],
+			[
+				"janeyi_get",
+				"janeyi_grid_setting"
+			],
+			[
+				"chi",
+				"child_textdomain"
+			],
+			[
+				"inle",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "run.py",
+			"settings":
+			{
+				"buffer_size": 2191,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lezai/settings/site.py",
+			"settings":
+			{
+				"buffer_size": 589,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lezai/settings/test.py",
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lezaiapp.sublime-project",
+			"settings":
+			{
+				"buffer_size": 308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lezai/__init__.py",
+			"settings":
+			{
+				"buffer_size": 24,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Flask",
+	"command_palette":
+	{
+		"height": 272.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: New View into File"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/py/lezaiapp/lezaiapp.sublime-project",
+		"/F/py/lezai/run.py",
+		"/F/py/lezai/lezai/settings/base.py",
+		"/F/py/lezai/lezai/settings/test.py",
+		"/F/py/lezai/lezai/settings/site.py",
+		"/F/py/lezai/lezai/settings/__init__.py",
+		"/F/py/esther-master/esther/settings/site.example.py",
+		"/F/py/lezai/lezai.sublime-workspace",
+		"/F/py/lezai/lezai.sublime-project",
+		"/F/py/lezai/lezai/__init__.py",
+		"/F/py/lezai-master/lezai/settings/site.py",
+		"/F/py/lezai-master/lezai/settings/__init__.py",
+		"/F/py/lezai-master/lezai-master.sublime-project",
+		"/F/py/ddqsw-master/app/admin/models/__init__.py",
+		"/F/py/ddqsw-master/app/__init__.py",
+		"/F/py/ddqsw-master/app/admin/__init__.py",
+		"/F/py/ddqsw-master/app/admin/views/info.py",
+		"/F/py/ddqsw-master/app/admin/views/link.py",
+		"/F/py/ddqsw-master/app/admin/views/option.py",
+		"/F/py/ddqsw-master/app/admin/views/video.py",
+		"/F/py/apppypress/pypress/__init__.py",
+		"/F/py/apppypress/pypress/views/__init__.py",
+		"/F/py/apppypress/pypress/views/account.py",
+		"/F/py/apppypress/pypress/models/__init__.py",
+		"/F/py/ddqsw-master/app/admin/models/links.py",
+		"/F/py/ddqsw-master/app/admin/templates/admin/layout.html",
+		"/F/py/ddqsw-master/app/admin/templates/admin/infos.html",
+		"/F/py/ddqsw-master/app/admin/views/__init__.py",
+		"/F/py/ddqsw-master/app/admin/templates/admin/dashboard.html",
+		"/F/py/ddqsw-master/app/admin/templates/admin/videos-type.html",
+		"/F/py/ddqsw-master/app/admin/templates/layout.html",
+		"/F/py/ddqsw-master/app/templates/admin/dashboard.html",
+		"/F/py/ddqsw-master/app/config.py",
+		"/F/py/ddqsw-master/env/Lib/site-packages/werkzeug/debug/shared/debugger.js",
+		"/F/py/ddqsw-master/env/Lib/site-packages/werkzeug/testsuite/debug.py",
+		"/F/py/ddqsw-master/run.py",
+		"/F/py/apppypress/pypress/views/link.py",
+		"/F/py/ddqsw-master/app/helpers.py",
+		"/F/py/ddqsw-master/app/templates/admin/links-list.html",
+		"/F/py/ddqsw-master/app/templates/layout.html",
+		"/F/py/ddqsw-master/app/templates/admin/layout.html",
+		"/F/py/ddqsw-master/app/admin/templates/admin/links-list.html",
+		"/F/py/apppypress/pypress/models/blog.py",
+		"/F/py/apppypress/pypress/views/comment.py",
+		"/F/py/apppypress/pypress/views/post.py",
+		"/F/py/apppypress/pypress/signals.py",
+		"/F/py/apppypress/pypress/config.cfg",
+		"/F/py/apppypress/pypress/helpers.py",
+		"/F/py/ddqsw-master/app/admin/views.py",
+		"/F/py/ddqsw-master/app/users/views.py",
+		"/F/py/ddqsw-master/app/admin/templates/admin/tables.html",
+		"/F/py/ddqsw-master/app/admin/templates/admin/forms.html",
+		"/F/py/ddqsw-master/app/admin/models/types.py",
+		"/F/py/ddqsw-master/app/admin/templates/admin/videos-type-new.html",
+		"/F/py/ddqsw-master/app/admin/templates/admin/file_manipulation.html",
+		"/F/py/discuz/login.py",
+		"/F/py/discuz/info.txt",
+		"/F/py/discuz/newthread.py",
+		"/F/py/discuz/utils/__init__.py",
+		"/F/py/ddqsw-master/app/templates/admin/gallery.html",
+		"/F/py/ddqsw-master/app/templates/admin/forms.html",
+		"/F/py/ddqsw-master/app/static/admin/css/bootstrap.css",
+		"/F/py/ddqsw-master/app/static/admin/css/main.css",
+		"/F/py/ddqsw-master/app/static/admin/css/plugins.css",
+		"/F/py/ddqsw-master/app/static/admin/css/font.css",
+		"/F/py/ddqsw-master/app/static/admin/css/fancybox.css",
+		"/F/py/ddqsw-master/app/static/admin/css/ie.css",
+		"/F/py/ddqsw-master/app/static/admin/css/elfinder.css",
+		"/F/py/ddqsw-master/app/static/admin/css/ui_custom.css",
+		"/F/py/ddqsw-master/app/templates/admin/content_components.html",
+		"/F/py/ddqsw-master/app/templates/admin/404.html",
+		"/F/py/ddqsw-master/app/templates/admin/file_manipulation.html",
+		"/F/py/utils/dumpassets/dumpassets.py",
+		"/F/py/utils/mergefilescontent/mergefilescontent.py",
+		"/F/py/ddqsw-master/app/templates/admin/dashboard_dark_unboxed.html",
+		"/C/Documents and Settings/Administrator/桌面/1.sql",
+		"/F/py/ddqsw-master/app/users/models.py",
+		"/F/py/ddqsw-master/app/users/forms.py",
+		"/F/py/ddqsw-master/app/lists/models.py",
+		"/F/py/ddqsw-master/app/lists/views.py",
+		"/F/py/ddqsw-master/app/lists/forms.py",
+		"/F/py/ddqsw-master/app/templates/lists/addvideo.html",
+		"/F/py/ddqsw-master/app/videos/models.py",
+		"/F/py/ddqsw-master/app/videos/__init__.py",
+		"/F/py/largeapp/run.py",
+		"/F/py/largeapp/app/__init__.py",
+		"/F/py/ddqsw-master/shell.py",
+		"/F/py/ddqsw-master/app/users/constants.py",
+		"/F/py/ddqsw-master/app/templates/users/register.html",
+		"/F/py/ddqsw-master/app/templates/base.html",
+		"/F/py/ddqsw-master/app/app.db",
+		"/F/py/apppypress/manage.py",
+		"/F/py/ddqsw-master/app/models/videos.py",
+		"/F/py/ddqsw-master/app/extensions.py",
+		"/F/py/ddqsw-master/app/models/__init__.py",
+		"/F/py/apppypress/pypress/extensions.py",
+		"/F/py/apppypress/pypress/models/users.py",
+		"/F/py/apppypress/pypress/permissions.py",
+		"/F/py/ddqsw-master/manage.py",
+		"/F/py/ddqsw-master/app/models/users.py",
+		"/F/py/largeapp/app/users/views.py",
+		"/F/py/largeapp/app/users/models.py",
+		"/F/py/ddqsw-master/config.py",
+		"/F/py/ddqsw-master/app/templates/404.html",
+		"/F/py/ddqsw-master/ddqsw.sublime-project",
+		"/F/py/hisabkitab-master/hisabkitab.sublime-project",
+		"/F/py/largeapp/app/templates/404.html",
+		"/F/py/largeapp/largeapp.sublime-project",
+		"/F/py/wire-master/wires.sublime-project",
+		"/F/py/alphabits-dk-v2-master/alphabits.sublime-project",
+		"/F/py/hisabkitab-master/views/auth.py",
+		"/F/py/hisabkitab-master/hisabkitab.py",
+		"/F/py/hisabkitab-master/models.py",
+		"/F/py/Dessert-master/dessert.sublime-project",
+		"/F/py/Dessert-master/manage.py",
+		"/F/py/Dessert-master/config.cfg",
+		"/F/py/Dessert-master/website/manage.py",
+		"/F/py/alphabits-dk-v2-master/aw/modules/blog/views.py",
+		"/F/py/alphabits-dk-v2-master/run_server.py",
+		"/F/py/alphabits-dk-v2-master/aw/templates/layout.html",
+		"/F/py/alphabits-dk-v2-master/aw/modules/pages/templates/pages/about.html",
+		"/F/py/test/test.sublime-project",
+		"/F/py/test/flaskr/flaskr.py",
+		"/F/py/test/flaskr/schema.sql",
+		"/F/py/test/flaskr/templates/show_entries.html",
+		"/F/py/test/flaskr/templates/layout.html",
+		"/F/py/test/flaskr/templates/login.html",
+		"/F/py/test/flaskr/static/style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sys",
+			"'static",
+			".static",
+			"signals",
+			" class=\"input-medium\"",
+			"input-mini",
+			"Apply action:",
+			"Default table",
+			"url_for('admin.ui",
+			"url_for('admin.static",
+			"url_for('static'",
+			"'admin/",
+			"ui-datepicker-trigger",
+			"font-size: 11px",
+			"' }}",
+			"query_class",
+			"jsxiaojun",
+			"blue",
+			"℃",
+			"sleep",
+			"220px",
+			"220",
+			"AutoResizeByWidth",
+			"random",
+			"_CONFIG",
+			"newthread_post_data",
+			"\"",
+			"INFO",
+			"    '",
+			"    \n",
+			"\"",
+			"get_random_user",
+			"random_reply",
+			"  ",
+			"user_agent",
+			"_login",
+			"mod=spacecp&ac=friend&op=add&uid=UID&inajax=1",
+			"test_random_replysubmit_CN",
+			"test_replysubmit_CN",
+			"呵呵！一句玩笑啊。。。。。。。。",
+			"print",
+			"_doPOST_REPLY",
+			"print",
+			", ",
+			",",
+			":",
+			"�",
+			"META_HEADERS",
+			"LOGIN_POST_DATA",
+			"320324.com",
+			"------------",
+			"27491",
+			"27284",
+			"selwriter",
+			" \n",
+			"li",
+			"240px",
+			"current_app",
+			"config",
+			"url_root",
+			"site",
+			"txt",
+			"libevent",
+			"function to",
+			"renderTime",
+			"delayedCall",
+			"_shape",
+			"initClass",
+			"updateAll",
+			"fo",
+			"trace",
+			"MethodInfo-80",
+			"../images",
+			"qosen_theme_validate_settings",
+			": ",
+			"><",
+			"__file__",
+			"rankpre",
+			"qq",
+			"qosen_remove_header_info",
+			"qosen_is_login_page",
+			".$rn",
+			" )",
+			"parent_field",
+			"nav_menu_css_class",
+			"sub-menu",
+			"book",
+			"showable_cell_value",
+			"xldate",
+			".value",
+			":",
+			" = ",
+			"`",
+			"lamba",
+			"s_active3",
+			"<br /><br />",
+			"s_active1",
+			"<script>",
+			"s_active2",
+			"s_active1",
+			"arrs1",
+			"dtp",
+			": ",
+			"dump",
+			"nothas",
+			"    $",
+			".",
+			"ChangeCode",
+			"</li>\\r\\n",
+			"<li>",
+			"SplitSymbol",
+			"GetOneTypeLink",
+			" {",
+			": ",
+			"width",
+			"console",
+			"size",
+			" box_B",
+			"rollCont",
+			"vBg",
+			"ContentsSmall",
+			"contentsSmall",
+			"rollVisual",
+			"sceneNumbers",
+			"vContents",
+			"motionC",
+			"#visualArea",
+			"#visualControll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'admin.static",
+			"static",
+			"",
+			"url_for('.ui",
+			"url_for('.static",
+			"url_for('admin.static'",
+			"'",
+			"font-size: 12px",
+			"') }}",
+			"",
+			"320px",
+			"",
+			"'",
+			"    ",
+			",",
+			", ",
+			": ",
+			"suining.tv",
+			"p",
+			"/a/i/lb",
+			":",
+			">\\r\\n<",
+			"",
+			".value,",
+			" : ",
+			":",
+			"",
+			"lambda",
+			"s_active4",
+			"</p><p>",
+			"s_active3",
+			"s_active2",
+			"<script type=\"text/javascript\">",
+			"s_active3",
+			"s_active2",
+			":",
+			"\\.",
+			"",
+			"{",
+			":",
+			"",
+			"bowrp",
+			"vbg",
+			"cos",
+			"rov",
+			"scn",
+			"vco",
+			"moc",
+			"#va",
+			"#vc",
+			"<a href=\"/\"><img src=\"/",
+			"png",
+			"href=\"/\"",
+			"/a/Scripts/",
+			"/a/Uploadify/",
+			"/a/Common/",
+			"http://www",
+			"s_active1",
+			"s_active2",
+			"s_active1",
+			"active2",
+			"p",
+			"s_active1",
+			"/a/j",
+			"s_active1",
+			"/a/j/",
+			".html",
+			"r_case",
+			"r_news",
+			"r_about",
+			"case_img",
+			"/a/i",
+			"",
+			"alt=\"\"",
+			"qosen",
+			"12",
+			"2",
+			":",
+			"a/",
+			";",
+			"{",
+			"232323",
+			"'/a/i/archive_image",
+			"'/a/i",
+			"'/a/i/",
+			":",
+			"",
+			"$",
+			"",
+			"=",
+			"exam",
+			"\"",
+			"exam",
+			"\"",
+			":",
+			"{",
+			"li",
+			"</a></li>",
+			"<li><a ",
+			"",
+			"</a></li>",
+			"<li><a href",
+			"\"/a/",
+			"",
+			"\"",
+			"",
+			"zengzhi",
+			".mod",
+			"-",
+			".mod-",
+			" .titlebar{",
+			"",
+			"'",
+			"\"",
+			"javascript:void(0);",
+			"",
+			"p",
+			"/div",
+			"div",
+			":",
+			"",
+			":",
+			",",
+			"QosenCMS",
+			",",
+			"{",
+			";",
+			":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "run.py",
+					"settings":
+					{
+						"buffer_size": 2191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lezai/settings/site.py",
+					"settings":
+					{
+						"buffer_size": 589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lezai/settings/test.py",
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lezaiapp.sublime-project",
+					"settings":
+					{
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lezai/__init__.py",
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CLEANJS":
+	{
+		"height": 88.0
+	},
+	"output.exec":
+	{
+		"height": 160.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"css/main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}
