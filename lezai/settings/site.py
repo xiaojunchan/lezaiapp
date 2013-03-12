@@ -1,4 +1,5 @@
-# Example ``lz.settings.site`` settings file
+# -*- coding: utf-8 -*-
+# Example ``lezai.settings.site`` settings file
 from lezai.settings.base import *
 
 # Change the secret key, of course
